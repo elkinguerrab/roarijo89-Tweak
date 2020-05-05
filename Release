@@ -1,8 +1,8 @@
-Origin: roarijo89 Tweaks Repo
-Label: roarijo89 Tweaks Repo
+Origin: roarijo89 Tweaks
+Label: roarijo89 Tweaks
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: CrazyBloo's testing repo
+Description: roarijo89 Tweaks repo
