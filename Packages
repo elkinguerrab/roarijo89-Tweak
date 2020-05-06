@@ -18,7 +18,7 @@ Section:  Tweaks 
 Maintainer: roarijo89 <roarijoa@gmail.com>
 Depends:
 Architecture: iphoneos-arm
-Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm
+Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm.deb
 Size: 5572
 MD5sum: 327faa496c9732223ce0498f2a3ab980
 Description: Try are tools u can manage are tweaks hacks
