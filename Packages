@@ -1,4 +1,3 @@
-
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
 Section:  Tweaks 
@@ -8,15 +7,15 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: test
-Author: Reposi3 <roarijo89@gmail.com>
+Description: porn
+Name: test repo
+Author: roarijo89 <roarijo89@gmail.com>
 Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.oldpackage
 
 Package: com.roarijo89.tools
-Version: 1.4
-Section:  Tweaks 
-Maintainer: roarijo89  Tweaks <roarijoa@gmail.com>
+Version: 1.0.0-1
+Section: Tweaks 
+Maintainer: roarijo89 <roarijoa@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm
@@ -25,4 +24,4 @@ MD5sum: 327faa496c9732223ce0498f2a3ab980
 Description: Try are tools u can manage are tweaks hacks
 Name: Tools 🛠
 Author: roarijo89 <roarijoa@gmail.com>
-Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.oldpackage
+Depiction:
