@@ -1,16 +1,16 @@
 Package: tools
 Version: 1.4
 Architecture: iphoneos-arm
-Maintainer: roarijo89
+Maintainer: roarijo89 Tweaks
 Installed-Size: 5572
 Filename: ./debs/tools/com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
 Size: 5186356
 MD5sum: 327faa496c9732223ce0498f2a3ab980
 SHA1: 9e83fffb12c95d9e35ec38985009a8fe1eb721a5
 SHA256: 990cc4d7ccd11442a1a1d8aacac0532c33be7f17945822bf21bf8eac7b00f68f
-Section: tweaks
+Section:  Tweaks 
 Description: Try are tools u can manage are tweaks hacks
-Name: Tools
+Name: Tools 🛠 
 
 Package: RevealLoader
 Version: 16.0
