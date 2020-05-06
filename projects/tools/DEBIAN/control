@@ -1,0 +1,10 @@
+Package: com.roarijo89.tools
+Name: ⓉⓄⓄⓁⓈ 🛠
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Try are tools u can manage are tweaks hacks 
+Maintainer: roarijo89 tweaks
+Author: roarijo89 tweaks
+Section: roarijo89 panel
+Version: 1.4-1+debug
+Installed-Size: 5572
