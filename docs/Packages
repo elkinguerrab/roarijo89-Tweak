@@ -13,22 +13,6 @@ Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to S
 Name: Tools
 
 Package: RevealLoader
-Version: 13.0
-Architecture: iphoneos-arm
-Maintainer: anonymous
-Installed-Size: 1900
-Depends: AppList
-Filename: ./debs/RevealLoader/revealloader_13.0_iphoneos-arm.deb
-Size: 1906188
-MD5sum: 0d0cf41b57f14a2e1dfa899529efdd59
-SHA1: baebe83909980d45606dd5dc58cebd4bfd6aa435
-SHA256: 4f278eea93071f3228d3f6662cdbeaf05817f77eac88fd1f020fde14133d6f2e
-Section: System
-Priority: optional
-Description: RevealLoader，使用reveal 13版本的动态库，自己替换/Library/RevealLoader/libReveal.dylib
-Name: RevealLoader
-
-Package: RevealLoader
 Version: 16.0
 Architecture: iphoneos-arm
 Maintainer: anonymous
@@ -52,9 +36,9 @@ Installed-Size: 1900
 Depends: AppList
 Filename: ./debs/RevealLoaderFor11/revealloaderfor11_17.0_iphoneos-arm.deb
 Size: 3865090
-MD5sum: f4be0f5760311e489f9fc6dee6c58ae4
-SHA1: 39676488cfcc12e8ce8b09b8aa764dda6865c1ba
-SHA256: 3d4783db1d156b40a209ccd99b708bea4439fd318948b533cb285c327757e443
+MD5sum: b6f00603defbc8808497a63f31339344
+SHA1: 2b5cb85ff4be812cf180b26a484f782c0c242f06
+SHA256: b8d1c43c9477ffee37f9f5f168b4722bec8571949a81131b53116049275e17ad
 Section: System
 Priority: optional
 Description: RevealLoader，使用reveal 17版本的動態庫，自己替换/Library/RevealLoader/libReveal.dylib, 僅支持iOS11
