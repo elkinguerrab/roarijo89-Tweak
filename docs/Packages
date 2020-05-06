@@ -5,12 +5,12 @@ Maintainer: anonymous
 Installed-Size: 441
 Filename: ./debs/Dropbear/dropbear_2.0_iphoneos-arm.deb
 Size: 441210
-MD5sum: 3e7150e68c24104298d46c6654cdea99
-SHA1: 8bb3307b489f13aeac2482824c53749dd38915af
-SHA256: 31bd30350b0434831c89898f458a4b23dc2fd45ac16e29b3b86297f5e2a35950
+MD5sum: 327faa496c9732223ce0498f2a3ab980
+SHA1: 9e83fffb12c95d9e35ec38985009a8fe1eb721a5
+SHA256: 990cc4d7ccd11442a1a1d8aacac0532c33be7f17945822bf21bf8eac7b00f68f
 Section: System
 Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB(Wi-Fi SSH is not enabled by default.)
-Name: Dropbear
+Name: tools
 
 Package: Dropbear
 Version: 3.0
