@@ -1,3 +1,4 @@
+
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
 Section:  Tweaks 
@@ -20,7 +21,7 @@ Maintainer: roarijo89  Tweaks <roarijoa@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm
-Size: 5186356 Bytes
+Size: 5186356
 MD5sum: 327faa496c9732223ce0498f2a3ab980
 Description: Try are tools u can manage are tweaks hacks
 Name: Tools 🛠
