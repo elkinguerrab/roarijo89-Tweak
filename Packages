@@ -11,3 +11,18 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: test
 Author: Reposi3 <roarijo89@gmail.com>
 Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.oldpackage
+
+
+Package: com.roarijo89.tools
+Version: 1.4
+Section:  Tweaks 
+Maintainer: roarijo89  Tweaks <roarijoa@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm
+Size: 5186356 Bytes
+MD5sum: 327faa496c9732223ce0498f2a3ab980
+Description: Try are tools u can manage are tweaks hacks
+Name: Tools 🛠
+Author: roarijo89 <roarijoa@gmail.com>
+Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.oldpackage
