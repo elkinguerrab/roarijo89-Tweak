@@ -1,4 +1,4 @@
-Package: tools
+Package: com.roarijo89.tools
 Name: Tools
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
