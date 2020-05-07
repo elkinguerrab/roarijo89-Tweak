@@ -1,9 +1,0 @@
-Package: com.roarijo89.tools
-Name: tools
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Maintainer: roarijo89
-Author: roarijo89
-Section: Tweaks
-Version: 1.4-0
-Installed-Size: 5572
