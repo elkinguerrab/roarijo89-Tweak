@@ -3,10 +3,10 @@ Architecture: iphoneos-arm
 Version: 1.4
 Section: Tweaks
 Maintainer: roarijo89
-Installed-Size: 132
+Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm.deb
-Size: 11902
+Size: 5186328
 MD5sum: 18fe62338d6bbe501aba790c78b927a9
 SHA1: 45afd1dd4e3e8152a998cbfb8585de213771ba3c
 SHA256: a2bb7a7a204bf662a3c9c20ba8477ea7d591fc6d74b0f56284c2676d6bc69e7f
