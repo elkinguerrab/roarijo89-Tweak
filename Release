@@ -1,11 +1,8 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin:SsS136's Repo
+Label:SsS136
 Suite: stable
 Version: 1.0
-Codename: julioverne
-Architecture: iphoneos-arm
+Codename:shibuya
+Architectures: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
-MD5Sum:
- b96c039dd5da5f617dfd1c52e37ddff0 77389 Packages
- 8311fde789b66ac003531a99c92a6ee1 20988 Packages.bz2
+Description: shibuya shibuya shimizu
