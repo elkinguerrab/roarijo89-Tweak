@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.roarijo89.tools
+Version: 1.4
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.roarijo89.tools...iphoneos-arm.deb
+Size: 860
+MD5sum: 9eea27c9911c43133b4a101592c3ba10
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: roarijo89
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/depictions/?p=com.roarijo89.tools
