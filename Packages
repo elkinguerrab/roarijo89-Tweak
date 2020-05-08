@@ -7,9 +7,9 @@ Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debs/com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
 Size: 51865
-MD5: 18fe62338d6bbe501aba790c78b927a9
-SHA1: 45afd1dd4e3e8152a998cbfb8585de213771ba3c
-SHA256: a2bb7a7a204bf662a3c9c20ba8477ea7d591fc6d74b0f56284c2676d6bc69e7f
+MD5: af23664054835dfc98a1e5700ad00834
+SHA1: 4541e78014308d3c4236599359c24d4876d4a148
+SHA256: af5bc83289ce40b75527f3e422f923ae1b1a4cba236be674f7e9b50e0b4a48d6
 Description: Try are tools u can manage are tweaks hacks
 Name: tools
 Author: roarijo89
