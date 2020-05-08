@@ -5,14 +5,14 @@ Section: porn free
 Maintainer: roarijo89
 Installed-Size: 5572
 Depends: mobilesubstrate
-Filename: ./debs/com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
+Filename: ./debs/tools.deb
 Size: 5062570
 MD5: 8a3fbd9465aa9c6df1c374f23562bc8d
 SHA1: 655ddf7865e55092523b1dfea7d4b97ffe5f0bc2
 SHA256: 3bc2bf15b5cff2369e6ad775c51499f1b9793ef39666eb1b384a760403393972
 Description:
 Name: Tools 🛠
-Depiction: https://SsS136.github.io/descriptions/FilzaCodingPro/index.html
+Depiction: https://roarijo89.github.io/descriptions/tools/index.html
 Author: roarijo89
 
 Package: com.shibu.gridstyle
