@@ -1,17 +1,16 @@
 Package: com.roarijo89.tools
 Architecture: iphoneos-arm
-Version: 1.4
-Section: Tweaks
+Version: 1.4-1+debug
+Section: porn free
 Maintainer: roarijo89
 Installed-Size: 5572
 Depends: mobilesubstrate
-Filename: ./debs/com.roarijo89.tools_1.4_iphoneos-arm
-Size: 5186328
+Filename: ./debs/com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
+Size: 51865
 MD5: 18fe62338d6bbe501aba790c78b927a9
 SHA1: 45afd1dd4e3e8152a998cbfb8585de213771ba3c
 SHA256: a2bb7a7a204bf662a3c9c20ba8477ea7d591fc6d74b0f56284c2676d6bc69e7f
-SHA512: 46497faa2c900c31b56e2d3abc9a87cb91a8d5bfb07844e6cef4e6b80e3cc759e71f7825c3e8feb76ca788ae16de56bdc46a75566965bcb9920dfd0827d342b7
-Description: hacks
+Description: Try are tools u can manage are tweaks hacks
 Name: tools
 Author: roarijo89
 
