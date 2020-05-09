@@ -5,13 +5,14 @@ Section: Tweaks
 Maintainer: roarijo89
 Installed-Size: 5572
 Depends: mobilesubstrate
-Filename: ./debs//var/mobile/roarijo89-Tweak/debfiles/tools.deb
+Filename: ./debs//var/mobile/roarijo89-Tweak/debfiles/com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
 Size: 5062346
-MD5: e199fab97be00cc1817d11c500a1e004
-SHA1: e5dcc1bffddfe773fca45769b06acce3f9a4bc94
-SHA256: af50d62b1e19761744b9ab246ce871ba56b8a8e03caedacb64f631f3829d71ee
+MD5: ba406381859aac94238970c8b4a42b9a
+SHA1: 3a8ac6798c1c792e1625b76f610525c55eefecea
+SHA256: 372d85ffca3d3cacc528398734d5a0814bd0c39b41c2578d712ddf05f3f01376
 Description: Try are tools u can manage are tweaks hacks
 Name: Tools
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
 Author: roarijo89
 
 Package: com.shibu.gridstyle
