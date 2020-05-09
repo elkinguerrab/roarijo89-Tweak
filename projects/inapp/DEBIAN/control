@@ -4,7 +4,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: in app purchase hack made by roarijo89 for roarijo89 tweaks
 Author: roarijo89
-Section:  Tweaks 
+Section: _Tweaks_
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.inapp
 Version: 1.0
 Installed-Size: 120
