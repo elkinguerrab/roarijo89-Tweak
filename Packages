@@ -15,22 +15,3 @@ Description: Try are tools u can manage are tweaks hacks
 Name: tools
 Author: roarijo89
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
-
-Package: com.shibu.gridstyle
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: shibu
-Installed-Size: 132
-Depends: mobilesubstrate
-Filename: ./debfiles//com.shibu.gridstyle_0.0.1-1+debug_iphoneos-arm.deb
-Size: 11080
-MD5sum: 50281169fbd6fba8924e6a55ea8439c5
-SHA1: 3143fd59bd51ea1bd4f79f2840e9e9da80ac7823
-SHA256: 19a7d57663624df7d94926aa1d4a63252475ce8424a6747ab5f41b0e2a6345ad
-SHA512: 8ffe6bc2b0c01e0cbdf14a7cadb9caef1cb3084fdf4a3be11807b690e2d62f82a512be5c4cf2fc1ffe6a5abe06d23d024066577eb98d30cf344f47d79239cf0d
-Description: スタイル変更
-Name: gridstyle
-Author: shibu
-Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.shibu.gridstyle
-
