@@ -23,12 +23,12 @@ Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.shibu.gridstyle_0.0.1-1+debug_iphoneos-arm.deb
 Size: 11902
-MD5: 705cdebce0c7ad2bb844df328bfd98e8
-SHA1: cc4443f23840c68c4d6f6ef3c0ed0ec9f44e487f
-SHA256: 97d8ee969c3eb25f47e6c1cca9df8b4de70f327cebc7d0779269cc386edbd4ff
+MD5: 1555c0eae29a871802239a46ae126450
+SHA1: 50a04041901b66e83cd594eafa5e3c5f7b9f59e6
+SHA256: c7f54150118be651ac3bb6fb53e5546d502214cb773ac140fc6723f767ac5bde
 Description: スタイル変更
 Name: gridstyle
-Depiction: http://roarijo89.github.io/description.html?
+Depiction: http://roarijo89.github.io/description.html?id=com.shibu.gridstyle
 Author: shibu
 
 Package: com.shibuya.safariextender
