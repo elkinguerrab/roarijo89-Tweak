@@ -21,11 +21,11 @@ Section: porn free
 Maintainer: shibu
 Installed-Size: 132
 Depends: mobilesubstrate
-Filename: ./debs/com.shibu.gridstyle_0.0.1-1+debug_iphoneos-arm.deb
-Size: 11902
-MD5: 864433ff867b61155cbca6a4e9ca487b
-SHA1: 4a7ccf74653654e24b36128b1d1862245958a576
-SHA256: 2724970d1bb34f110899c5dc962d1ff9833d0dac8dc5daa4ebc7cd34f6cb960a
+Filename: ./debs/gridstyle.deb
+Size: 11084
+MD5: 1ef5cbdf2f8a201133cc97fe4f236296
+SHA1: cecfd1c4a02a805c0d2cd040d0bf36d5d0936f27
+SHA256: 0899b0b4a83ccc7291a40f693090b5e2d3eceebc1e765f961bd44a738c735cca
 Description: スタイル変更
 Name: gridstyle
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.shibu.gridstyle
