@@ -1,9 +1,9 @@
-Package: com.yourepo.roarijo89tweaks.icone
+Package: com.yourepo.testreporoa.icone
 Essential: yes
 Section: System
-Maintainer: roarijo89tweaks
+Maintainer: testreporoa
 Architecture: iphoneos-arm
 Version: 1.0
-Description: Officials Roarijo89Tweaks Repo Icons
-Name: Roarijo89Tweaks Repo Icons
-Author: Roarijo89tweaks
+Description: Officials Testreporoa Repo Icons
+Name: Testreporoa Repo Icons
+Author: Testreporoa

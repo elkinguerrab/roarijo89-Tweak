@@ -6,10 +6,10 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.inapp_1.0_iphoneos-arm.deb
 Size: 4576
-MD5sum: 12d1e790148f78d3362128e099399b5b
-SHA1: b02349650716344ccd7e19192fcba7022bbfc623
-SHA256: 8e54b3c210c318fa5ab904da2d4decf9033ec906a938b3badb82fb7ba8d90789
-SHA512: 0f6b8f44f2d9ba9a9a68dd2d0e9d52a23b4d729eb66efd8637e66d2077e5d766880df17cc69d8551c32fc57b44f875b27ffb19d4273872245d628ddc6dc2dc58
+MD5sum: 0019ac1b31391f5c2ec3f96ed60916eb
+SHA1: d8bbd5c09159925210fdcbae0b526b831df4b3d7
+SHA256: c1f03bf4452ff22acb24a9338c7fe15eef8df4f80a1f04f70d35a7d0f1896d76
+SHA512: 61d8bc228d1a6c5550edf11b9146d74e7653642f70b05ad0a593164b03a32a69dcd95386fd37f11a94670a2f43f12e251bae5b3dd532b96a3af63d9805837054
 Description: in app purchase hack made by roarijo89 for roarijo89 tweaks
 Name: in app purchase all iOS version
 Author: roarijo89
@@ -18,34 +18,34 @@ Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.r
 Package: com.roarijo89.tools
 Architecture: iphoneos-arm
 Version: 1.4
-Section:  Tweaks 
+Section: roarijo89
 Maintainer: roarijo89 Tweaks
 Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tools_1.4_iphoneos-arm.deb
-Size: 5062384
-MD5sum: b5d6be86b6cd50bce623e8a3cf1788f1
-SHA1: 1ee7ad1d76ab200000a9339b1c9e95f7ea38e7b4
-SHA256: 284384b06d24283159706f4121fd6d7a2005803b7eb3b305959d423ce6e955f0
-SHA512: 77ca8ab4d74970dc428a0082d16d3f8108e0b7921c016bd80857884fb29500301eccc1268008bd0d3e213beda2671810d152cea2a6b8a8c621b62f5b30e7e0e9
+Size: 5062376
+MD5sum: ade1bab136f26fe6b53623500e7099d9
+SHA1: a4765e3399b8e47bc2e43dfe3e955e194e5ded63
+SHA256: 1ec175c878a0b9181b1ef5a2003fb4ad57a86659b9067112f0ab0f2cd37a4ba4
+SHA512: e6339b5d2e2d2555f4f4b0b3a3aede33c78051bf77314c86909c7b7c1e880629d34be191ac6a95a64e4b0331c7f3b8025c7ee10ebae2672f453a54d9755b0f0b
 Description: read descrip
 Name: Tools
 Author: roarijo89 Tweaks
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
 
-Package: com.yourepo.roarijo89tweaks.icone
+Package: com.yourepo.testreporoa.icone
 Architecture: iphoneos-arm
 Version: 1.0
 Essential: yes
 Section: System
-Maintainer: roarijo89tweaks
-Filename: ./debfiles//com.yourepo.roarijo89tweaks.icone_1.0_iphoneos-arm.deb
-Size: 390968
-MD5sum: 958e681400bf7694246d398e9227ba8a
-SHA1: 5f3a3c2f0f6137fa5379eeb29f2403962b7b49cd
-SHA256: d0526d9fb11d39b2829b60c93a171988500268b9cabe3dc30fe744723b5c84e4
-SHA512: 17d86647fa6333bade006a12636d365dc970190d0a770e87dda5b3d3c64bc86a929528b29b329d49881902f8e93a1cc168e9813ff89ea4bc41e88b932461fa5c
-Description: Officials Roarijo89Tweaks Repo Icons
-Name: Roarijo89Tweaks Repo Icons
-Author: Roarijo89tweaks
+Maintainer: testreporoa
+Filename: ./debfiles//com.yourepo.testreporoa.icone_1.0_iphoneos-arm.deb
+Size: 390938
+MD5sum: 9128c4ac340b7b3567c350360d436912
+SHA1: 72d7d3027743dee3b5353939fc9a7df34fb69869
+SHA256: c3926493b08462a5292bf695f86516ad588f4011dc9aebd1ba687e44d4ebad96
+SHA512: bf226b22e1680dc4449b97dde8d087446b935ce46b8e40a3bc61f1a6480073a976c6c0a96d47b8c537aafd32961bb696b30888aa3119b9c90f9564b694ea056d
+Description: Officials Testreporoa Repo Icons
+Name: Testreporoa Repo Icons
+Author: Testreporoa
 
