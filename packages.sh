@@ -1,3 +1,4 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/infiniloader debs
-# dpkg-deb -bZgzip projects/<project name> <output folder>
+dpkg-deb -bZgzip projects/tool debfiles
+
+dpkg-deb -bZgzip projects/gridstyle debfiles
