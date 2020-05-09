@@ -1,8 +1,8 @@
 Package: com.roarijo89.tools
-Name: Tools 🛠
+Name: Tools 
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: read 👇🏻
+Description: read descrip
 Maintainer: roarijo89 Tweaks
 Author: roarijo89 Tweaks
 Section: Tweaks

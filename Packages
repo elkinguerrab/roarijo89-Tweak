@@ -1,3 +1,20 @@
+Package: com.roarijo89.inapp
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debfiles//com.roarijo89.inapp_1.0-1+debug_iphoneos-arm.deb
+Size: 4560
+MD5sum: 529e7e85a3aafccaef20a861e49aa975
+SHA1: 7b1ee88c119420cf94dde3deb525ff10cc3cfc97
+SHA256: 2fa9644beb629da8dc39382328ed36f03a551495aabf13f8e8e781e9ca0c9546
+SHA512: 87f2b5f6c8d2f89046e4c81a802d70dfe6a12105e607aaa0bfdf69e9de7d54a17a89170d59b0f359380b3ae18b17c6db155e36fb9e214184ce813d401beddc7b
+Homepage: https://roarijo89.wixsite.com/roarijo89tweaks
+Description: in app purchase hack made by roarijo89 for roarijo89 tweaks
+Name: in app purchase all iOS version
+Author: roarijo89
+
 Package: com.roarijo89.tools
 Architecture: iphoneos-arm
 Version: 1.4
@@ -6,13 +23,13 @@ Maintainer: roarijo89 Tweaks
 Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tools_1.4_iphoneos-arm.deb
-Size: 5062384
-MD5sum: 4e8c8216ad7f6ff7d7532028fa1d66ce
-SHA1: 07f16968160ac809548cbf76a1d2347711c8d68a
-SHA256: ae1c95685ab8a25bcda94a4d5ce6c90380c46708d1d17f9a5cc1b09829cd9284
-SHA512: b2a88a2dcf70014c0c8d9ba176c48b91e303e099aa544ea70caeb33f40b8d260c7da657615e6db073c988e2b51b43a393c0616abda613f534500645db16e75ae
-Description: read 👇🏻
-Name: Tools 🛠
+Size: 5062376
+MD5sum: 9105cd747d1b8a4c3137193ddc72b238
+SHA1: 6b6ab78468edf563f9f4fe88d5756678572e2ab3
+SHA256: 2c4065ffc2af5c9cb273c5d6b6b3b5bdd2fd5463e73d8d2c7a028de2716bc95e
+SHA512: 95592efc3d046f8b423d2cdbf87aa50538a82cbbd867edfc49d01ee617e8f82aecfa6d29732da0395080cdb8513c0864855e7fcfe024a143f872392b608acc1f
+Description: read descrip
+Name: Tools
 Author: roarijo89 Tweaks
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
 

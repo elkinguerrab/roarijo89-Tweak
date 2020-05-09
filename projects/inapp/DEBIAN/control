@@ -1,0 +1,10 @@
+Package: com.roarijo89.inapp
+Name: in app purchase all iOS version
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: in app purchase hack made by roarijo89 for roarijo89 tweaks
+Author: roarijo89
+Section: Tweaks
+Homepage: https://roarijo89.wixsite.com/roarijo89tweaks
+Version: 1.0-1+debug
+Installed-Size: 120
