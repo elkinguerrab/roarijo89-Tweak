@@ -1,3 +1,21 @@
+Package: com.roarijo89.Best
+Architecture: iphoneos-arm
+Version: 1.0
+Section: _Tweaks_
+Maintainer: roarijo89 Tweaks
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debfiles//com.roarijo89.best_1.0_iphoneos-arm.deb
+Size: 124656
+MD5sum: d91eba32b075aafa8ae0d194e4aa093b
+SHA1: 808521cd108f0b645c0d8e126a5b4342b456da71
+SHA256: e2c720b8ae89935f15a44cb1e02cef43df60747157a3ebd49b39cddc963a0315
+SHA512: b0a5e90b77a998acb0ed7ea4c8795577c1433fce3a1604fea199b0b4abd6f9774bdf56bf66a4fac1c12748918829164257b4fc3ed5d218f266fab9d7faf68230
+Description: read Description
+Name: Best Fiends
+Author: roarijo89 Tweaks
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.best
+
 Package: com.roarijo89.icons
 Architecture: iphoneos-arm
 Version: 1.0
@@ -6,10 +24,10 @@ Section: System
 Maintainer: roarijo89
 Filename: ./debfiles//com.roarijo89.icons_1.0_iphoneos-arm.deb
 Size: 512004
-MD5sum: f9a670f7d8ae17b05e60c385177fdd81
-SHA1: 287d8e5eca9f1e0842ef5e9bfa7967b86aa25a3d
-SHA256: c665287ffd1927b3641c0bac7942b439c55698cc52fa052e2d04653c85f1d543
-SHA512: 72993342ec43acd3aa0c15dbcda4bf96b61de0fb8459f7b469e94722ca2828620d6ad36af4b1d4429ee193269b082f7294b798d4ad0ab30dc02d9f53f973d26f
+MD5sum: 3e97ba979187a7028f2bbffc3a506a11
+SHA1: 93f7252431b3cfaa733e45232cd165f65969daa3
+SHA256: 78d0cedca589ec041145c83265c099385aee5e9a2a62d62fe5da37a1680b7b2d
+SHA512: fd4e137e4a4a24fd42f04a9bdb8da18260dab51036e461f5e544410013d6b24fa9158086fee913e9d4460f854ce4e08fa696028cc64243e21481320c232dd9c5
 Description: Officials roarijo89 Tweaks Repo Icons
 Name: roarijo89 Tweaks Repo Icons
 Author: roarijo89
@@ -22,14 +40,32 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.inapp_1.0_iphoneos-arm.deb
 Size: 4564
-MD5sum: 35032f07b3fb0e757255c4e432e62001
-SHA1: b4cf9ef1190e91aa0dcf245680b5333cec5799a6
-SHA256: 932805eec5da16cf13722513156dca6595715d29bfc94f89d31351583a03db92
-SHA512: 9ab6a8a8229fe0f36b5d7e80baf583a5d4dbb7a3bf475491a66dc72f7bb8df8f7f73bc8e8a75c72be5263e815b675d4a10b1ff4ecd3cec42c8785e522dd36c39
+MD5sum: 4dfa1288face4e2d28f90dedbb659d6f
+SHA1: bfca46950707e551bc57cfc172e7ac0cf439bd06
+SHA256: ae6c6ae4f5b70d76ad84f0da9089d129d3db5fe329e2e1313ef1c0cda639a46b
+SHA512: c146d130eff295052e51cd0af203d6158e6b2771c5a8467ee5a6f7dd4983a0c9ecd3b82fa52049976d3f21f33c794aabeb7e16f7e32cf375bb7fa683c5b8ab5a
 Description: read Description
 Name: in app purchase all iOS version
 Author: roarijo89
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.inapp
+
+Package: com.roarijo89.tiny
+Architecture: iphoneos-arm
+Version: 1.0
+Section: _Tweaks_
+Maintainer: roarijo89 Tweaks
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debfiles//com.roarijo89.tiny_1.0_iphoneos-arm.deb
+Size: 123850
+MD5sum: 7204cf6c82ba5b6c454f9d8340eb28c0
+SHA1: cbc0da4d58db178f37a7ab6ca5a29bbd1171ee7a
+SHA256: 71fe6d4ead5ce0aa5a067b66bf1e08d84335804673dd5e0b488c0c3c4715caaf
+SHA512: cd70373689119af0ad246ea1781117afd6711146552fe2826c50184a298bb68962c459f00f460ca7f41ab72b95bebf2d6e4c4e09230e6a25a158a591dbb9f7a6
+Description: read Description
+Name: Tiny Towers
+Author: roarijo89 Tweaks
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tiny
 
 Package: com.roarijo89.tools
 Architecture: iphoneos-arm
@@ -40,10 +76,10 @@ Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tools_1.4_iphoneos-arm.deb
 Size: 5062376
-MD5sum: 3c9ea50c92826725824dd72c66379a9b
-SHA1: 9a4ba2ada8619b5f4ca8b5d58b4d1cbfc430a04e
-SHA256: 505034c8a4b357ea0158449e0a42d538ae12e4fed98d223108529abed6b73ea3
-SHA512: 19deb021ee5309ef7a2d84ab52e811f45f9e5c7d9031ac00369ddac93d2327ce075713671447bbdff6523b0a71b3240cee5af13a281f8e4c0ec54b5b42c652ab
+MD5sum: 26fb49ad9bcee7d353bc070e7835d9f6
+SHA1: c63b74b15579ec2b01c8130599707a2bae0e91ac
+SHA256: 708b0222e5d952b9cce7b5a8afdd4381330268a3ae99d9fa73526e634fa61987
+SHA512: d9b8aca24fedb1a8c21b5dd4c641ca8ebf15cf9376032d49b4b2d20eb6bcf61faa003886dc1675cc5627912e80dc1719b9305c400121bf2dedcc4a7310fbbf71
 Description: read Description
 Name: Tools
 Author: roarijo89 Tweaks
