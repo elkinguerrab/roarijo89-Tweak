@@ -6,10 +6,10 @@ Section: System
 Maintainer: roarijo89
 Filename: ./debfiles//com.roarijo89.icons_1.0_iphoneos-arm.deb
 Size: 512004
-MD5sum: 539bffef91a333d673ba111c2e84620d
-SHA1: 11011e9c535479df8f971839eace544d4eff3954
-SHA256: 56fb001007f5bd0083c27bf954284af02d51df02ff99421d911bcd2be12c09ea
-SHA512: 2e17e042adeee19d5bf7766776d6d4ec8dd978f9c76c9f1011027c7609ee95c544a106bc27886927df33f06ed7bcb2e0415ae19b465f60fbed14d346e723d9c1
+MD5sum: f9a670f7d8ae17b05e60c385177fdd81
+SHA1: 287d8e5eca9f1e0842ef5e9bfa7967b86aa25a3d
+SHA256: c665287ffd1927b3641c0bac7942b439c55698cc52fa052e2d04653c85f1d543
+SHA512: 72993342ec43acd3aa0c15dbcda4bf96b61de0fb8459f7b469e94722ca2828620d6ad36af4b1d4429ee193269b082f7294b798d4ad0ab30dc02d9f53f973d26f
 Description: Officials roarijo89 Tweaks Repo Icons
 Name: roarijo89 Tweaks Repo Icons
 Author: roarijo89
@@ -21,12 +21,12 @@ Section: _Tweaks_
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.inapp_1.0_iphoneos-arm.deb
-Size: 4578
-MD5sum: 270898c09c0c794d322aaa751f820e30
-SHA1: c016c48a2ab14761711e590d081f5e7a598a2039
-SHA256: 1ba48d65caa9cce8ca8aa6e098190bfee0e929d77f2730c608c9ad411a4ad188
-SHA512: cd72e0819f3d4bec221f1556333030261becfecf68230fc017d0fbca29335095858b143f4abe4d49070133675014fb6d5a478bc159d1d5269d6b07f6d3660b24
-Description: in app purchase hack made by roarijo89 for roarijo89 tweaks
+Size: 4564
+MD5sum: 35032f07b3fb0e757255c4e432e62001
+SHA1: b4cf9ef1190e91aa0dcf245680b5333cec5799a6
+SHA256: 932805eec5da16cf13722513156dca6595715d29bfc94f89d31351583a03db92
+SHA512: 9ab6a8a8229fe0f36b5d7e80baf583a5d4dbb7a3bf475491a66dc72f7bb8df8f7f73bc8e8a75c72be5263e815b675d4a10b1ff4ecd3cec42c8785e522dd36c39
+Description: read Description
 Name: in app purchase all iOS version
 Author: roarijo89
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.inapp
@@ -40,11 +40,11 @@ Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tools_1.4_iphoneos-arm.deb
 Size: 5062376
-MD5sum: b3e2f2cbd6f5b20b428aad7df8c24b2a
-SHA1: c3f20f4c41c5401bb347c5a24d96bb5063b0e416
-SHA256: 53fca5021ce6604ae24f0895b5e867f79a3dd3d124905200257f4335325d8001
-SHA512: 3732f0dddee2b480d36a344e6096dcf70280b5eef1362596cd26381337cf9854643849070c460899981b184c61f876f86759efd1caa243df710076c190a3918b
-Description: read descrip
+MD5sum: 3c9ea50c92826725824dd72c66379a9b
+SHA1: 9a4ba2ada8619b5f4ca8b5d58b4d1cbfc430a04e
+SHA256: 505034c8a4b357ea0158449e0a42d538ae12e4fed98d223108529abed6b73ea3
+SHA512: 19deb021ee5309ef7a2d84ab52e811f45f9e5c7d9031ac00369ddac93d2327ce075713671447bbdff6523b0a71b3240cee5af13a281f8e4c0ec54b5b42c652ab
+Description: read Description
 Name: Tools
 Author: roarijo89 Tweaks
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
