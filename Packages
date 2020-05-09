@@ -11,12 +11,12 @@ MD5: af23664054835dfc98a1e5700ad00834
 SHA1: 4541e78014308d3c4236599359c24d4876d4a148
 SHA256: af5bc83289ce40b75527f3e422f923ae1b1a4cba236be674f7e9b50e0b4a48d6
 Description: Try are tools u can manage are tweaks hacks
-Name: Tools 🛠
+Name: Tools
 Author: roarijo89
 
 Package: com.shibu.gridstyle
 Architecture: iphoneos-arm
-Version: 
+Version: 0.0.1-1+debug
 Section: porn free
 Maintainer: shibu
 Installed-Size: 132
