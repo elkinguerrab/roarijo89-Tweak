@@ -1,36 +1,20 @@
 Package: com.roarijo89.tools
 Architecture: iphoneos-arm
 Version: 1.4-1+debug
-Section: Tweaks
+Section: porn free
 Maintainer: roarijo89
 Installed-Size: 5572
 Depends: mobilesubstrate
-Filename: ./debs//var/mobile/roarijo89-Tweak/debfiles/com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
-Size: 5062346
-MD5: ba406381859aac94238970c8b4a42b9a
-SHA1: 3a8ac6798c1c792e1625b76f610525c55eefecea
-SHA256: 372d85ffca3d3cacc528398734d5a0814bd0c39b41c2578d712ddf05f3f01376
+Filename: ./debfiles//com.roarijo89.tools_1.4-1+debug_iphoneos-arm.deb
+Size: 5062388
+MD5sum: 6ac3c9abac5ff1b0d702c625a216e3d9
+SHA1: 312ac57ddfca6db3a00f355e852f1d2c39f8efec
+SHA256: 1a2d93c78a8735b58f98a08754d926af44ccf21f95620c4d9b783cc8cea88c7d
+SHA512: ae90a099dcd1866c6f92dadf04a68fad59f3c7e3a41b7311f1d138d967266f75a9cb84aa8fdc1c41a7ff886900532ecccb10156e626cdbcb92b4c27f9ed1c957
 Description: Try are tools u can manage are tweaks hacks
-Name: Tools
-Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
+Name: tools
 Author: roarijo89
-
-Package: com.shibu.gridstyle
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: porn free
-Maintainer: shibu
-Installed-Size: 132
-Depends: mobilesubstrate
-Filename: ./debs/gridstyle.deb
-Size: 11084
-MD5: 1ef5cbdf2f8a201133cc97fe4f236296
-SHA1: cecfd1c4a02a805c0d2cd040d0bf36d5d0936f27
-SHA256: 0899b0b4a83ccc7291a40f693090b5e2d3eceebc1e765f961bd44a738c735cca
-Description: スタイル変更
-Name: gridstyle
-Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.shibu.gridstyle
-Author: shibu
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
 
 Package: com.shibuya.safariextender
 Architecture: iphoneos-arm
@@ -39,7 +23,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 612
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.safariextender_0.0.1-9+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.shibuya.safariextender_0.0.1-9+debug_iphoneos-arm.deb
 Size: 64524
 MD5sum: 2badd74766efd3cd1a9e356ec25ae8d5
 SHA1: 7086d2e3c582c4018113d117b02619e4cc61f799
@@ -56,7 +40,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 352
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shibuya.sbextender_0.0.1-6+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.shibuya.sbextender_0.0.1-6+debug_iphoneos-arm.deb
 Size: 71328
 MD5sum: c82f305c2be3cdb36a394632e950e302
 SHA1: 2446e1307caf1ec1ffff337c50af594a895b3b18
@@ -74,7 +58,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 328
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.askunread_0.0.1-7+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.askunread_0.0.1-7+debug_iphoneos-arm.deb
 Size: 53582
 MD5sum: 7612f7c7998668d1d1d008b60624ecea
 SHA1: b0c5d421893b680432bc8a70f04cd4d18b1876a1
@@ -92,7 +76,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 328
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.askunread_0.0.1-8+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.askunread_0.0.1-8+debug_iphoneos-arm.deb
 Size: 53568
 MD5sum: 8063b3bf441c0d8e222c4bf63c7b9da7
 SHA1: b7cd92fd47b7f56657b50602e245a81b1e58e69b
@@ -110,7 +94,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 604
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.autolockcustom_0.0.1-11+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.autolockcustom_0.0.1-11+debug_iphoneos-arm.deb
 Size: 56114
 MD5sum: 2677959b38924f357a669d2c3bd93802
 SHA1: 190c3f0ceca2f05136ce12e893beabbf237471da
@@ -127,7 +111,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 552
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easychangeapp_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.easychangeapp_0.0.1-1+debug_iphoneos-arm.deb
 Size: 46176
 MD5sum: 35134387687cfe553a43dac37d7e2bfb
 SHA1: 0d69a6ea8f759a06829887e00831b58c62c2c10d
@@ -144,7 +128,7 @@ Section: Tweaks
 Maintainer: yuto shibuya
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.easypornhub_0.0.1-8+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.easypornhub_0.0.1-8+debug_iphoneos-arm.deb
 Size: 8310
 MD5sum: 10f60b97f9254668edd4f611c0968853
 SHA1: 3bd06b850d7d64074c2236797d70a8f015389b5b
@@ -161,7 +145,7 @@ Section: Tweaks
 Maintainer: SsS136
 Installed-Size: 744
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.filzacodingpro_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.filzacodingpro_0.0.1-1+debug_iphoneos-arm.deb
 Size: 172908
 MD5sum: a683c52c287ca24ddff6e5eb56415213
 SHA1: 810046ab37dfd0c196d66441ae44dda534060829
@@ -179,7 +163,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 408
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Filename: ./debs/com.sss136.linecustomizer_0.0.1-7+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.linecustomizer_0.0.1-7+debug_iphoneos-arm.deb
 Size: 28828
 MD5sum: b8fa3fa73159677370d1b89eaffe363e
 SHA1: 6949f2fdd0fc6f7c8cce48742c091fbb648c34d3
@@ -196,7 +180,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.padsystem_0.0.1-2+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.padsystem_0.0.1-2+debug_iphoneos-arm.deb
 Size: 5298
 MD5sum: 1fb375f7116935a554632dc67f2a663e
 SHA1: 8537dd8dd734ec4fd7f72bd941bb820ce84b25cf
@@ -213,7 +197,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.sixicondockxii_0.0.1-15+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.sixicondockxii_0.0.1-15+debug_iphoneos-arm.deb
 Size: 7846
 MD5sum: 8878e655b3d8960f327f03230676a5a1
 SHA1: 52d9681a4cdef9536cf2fe00c08b6b16dc0cb296
@@ -230,7 +214,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 284
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.status_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.status_0.0.1-1+debug_iphoneos-arm.deb
 Size: 24018
 MD5sum: 136a5759e50e8729687bf4402047d1e8
 SHA1: 64c6bbf88b8a807433db90138fc9f555e9f5e075
@@ -247,7 +231,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 160
 Depends: mobilesubstrate
-Filename: ./debs/com.sss136.ytallblacks_0.0.1-6+debug_iphoneos-arm.deb
+Filename: ./debfiles//com.sss136.ytallblacks_0.0.1-6+debug_iphoneos-arm.deb
 Size: 11316
 MD5sum: 2628ee5107696f2d14edc4f66e33bcdf
 SHA1: 97b3434cf3d510abd80ce0dff0f5125b2e6e6178
@@ -257,6 +241,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: YTAllBlacks
 Author: shibuya
 
+Package: com.shibu.gridstyle
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: shibu
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debfiles//gridstyle.deb
+Size: 11084
+MD5sum: 1ef5cbdf2f8a201133cc97fe4f236296
+SHA1: cecfd1c4a02a805c0d2cd040d0bf36d5d0936f27
+SHA256: 0899b0b4a83ccc7291a40f693090b5e2d3eceebc1e765f961bd44a738c735cca
+SHA512: 63311dc693a0efe705b72270fb87c0a1f4b6a973d14d873505c067e4ec249b46c81ce1563517ea607f690420341ee4fe6f5e7f6ba00b00adc5e32dccbad8207f
+Description: スタイル変更
+Name: gridstyle
+Author: shibu
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.shibu.gridstyle
+
 Package: org.sss136.youtubeextender
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -264,7 +266,7 @@ Section: Tweaks
 Maintainer: shibuya
 Installed-Size: 316
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/org.sss136.youtubeextender_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debfiles//org.sss136.youtubeextender_0.0.1-1+debug_iphoneos-arm.deb
 Size: 30722
 MD5sum: 940cb46fa117f8d8db029ce79f471fbc
 SHA1: 817e5aaa9fcfce38dea85386aee446295e73b5f9
@@ -273,3 +275,4 @@ SHA512: 2f5f3632a79f403a36f2cb0d4764387f4d16eb643b1eea2c2d4325094d01f52cb339d940
 Description: Youtube Extend Tool
 Name: Youtube Extender
 Author: shibuya
+

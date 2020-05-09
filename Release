@@ -1,8 +1,11 @@
-Origin: roarijo89 Tweaks testing
-Label: roarijo89 Tweaks testing
+Origin: julioverne's Repo
+Label: julioverne
 Suite: stable
 Version: 1.0
-Codename:roarijo89
-Architectures: iphoneos-arm
+Codename: julioverne
+Architecture: iphoneos-arm
 Components: main
-Description: if u see this pls leave
+Description: julioverne's Tweaks
+MD5Sum:
+ 6e427f52de0f486c2945414cbc8c2fad 10874 Packages
+ fe5b5cca7b8f7f79382f0861690d1e7f 4056 Packages.bz2
