@@ -1,5 +1,5 @@
 Origin: roarijo89 Tweaks
-Label: roarijo89
+Label: roarijo89 Tweaks
 Suite: stable
 Version: 1.0
 Codename: roarijo89
@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: official roarijo89 Tweaks repo
 MD5Sum:
- 90fb16acb0c963c819e82f3bf3da2a25 686 Packages
- a4d8b05869015c9bdd08c2a4e9b21704 500 Packages.bz2
+ 0e0723f24951058685e6e97a2406c0ee 700 Packages
+ 658f1cb239be60c4dca569d4320c8e52 507 Packages.bz2

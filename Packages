@@ -6,12 +6,12 @@ Maintainer: roarijo89 Tweaks
 Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tools_1.4_iphoneos-arm.deb
-Size: 5062368
-MD5sum: 8a2ea407905cab5c461bb1a54a5bdd1d
-SHA1: 7536d39143cd9817a45b1a4fdd63c89a5a99afad
-SHA256: 8b70246a6026679c1dab1e2aabfdd1052af8708c1c1ad9bb3aff7559df3fb501
-SHA512: 5abea4b9f6567e09e48d8928db65ba823448e1f1f7354124f132a521e0e183825f7dc8f5b031764baf5962416f2973f85d632317daf2ab013a73d825fc8202cb
-Description:
+Size: 5062384
+MD5sum: 4e8c8216ad7f6ff7d7532028fa1d66ce
+SHA1: 07f16968160ac809548cbf76a1d2347711c8d68a
+SHA256: ae1c95685ab8a25bcda94a4d5ce6c90380c46708d1d17f9a5cc1b09829cd9284
+SHA512: b2a88a2dcf70014c0c8d9ba176c48b91e303e099aa544ea70caeb33f40b8d260c7da657615e6db073c988e2b51b43a393c0616abda613f534500645db16e75ae
+Description: read 👇🏻
 Name: Tools 🛠
 Author: roarijo89 Tweaks
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
