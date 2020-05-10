@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: read Description
 Maintainer: roarijo89 Tweaks
 Author: roarijo89 Tweaks
-Section: Tools 🛠
+Section: _Tools 🛠_
 Version: 1.4
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
 Installed-Size: 5572

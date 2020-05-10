@@ -7,10 +7,10 @@ Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.audio_1.0_iphoneos-arm.deb
 Size: 123840
-MD5sum: b64c5a0407f713c88c7b7a28dd88c65c
-SHA1: e8d49fe35fa641798dee59264ceadf33d954ffe6
-SHA256: a17d09f968f8b4d986a33472ca8e55b7b66dd4a1d7424b6841012a5bf482bdb4
-SHA512: c8c49c63f36116dcb6b3c187fbd1cc390a2fbf25d856aafc0e08249893390d972ceacbc4ff35a7a21a76a6f48d49a4968f7fa0eac8e90664dbac635b33bcb830
+MD5sum: 39809c45a33c61095506df5bf53f722d
+SHA1: 3e0139651d6a03916072838b198f31404d80bf5f
+SHA256: af9f5e6d90b7eda6c8360c66e318e96c6b12420827645ba06004db6bc6ab737d
+SHA512: b86a237b12000f26bafa73c325d5064bd06ef9a1f4d6198d3dc986597d81a9aa27b2e53a345c599268ceddee7877cd9ddba1dc90bc0907d64cb24cd677797835
 Description: read Description
 Name: audiomack
 Author: roarijo89
@@ -25,10 +25,10 @@ Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.best_1.0_iphoneos-arm.deb
 Size: 124656
-MD5sum: a5cfee981ad5b46422d4833c5dd3c531
-SHA1: e48cd82916ff326e82f201a1c3aee5aab6c830a9
-SHA256: 2864105e81daa35a3b6e1217b9d44bf609fdb7d8029046c7e10194d5d8e27b79
-SHA512: 4a5b3c660b4c9740d9b87c7127ceed64666d7e3429bdfee4790a3c53b7c03ddb2bb79a49b031992a9faf93b33ad17240d5ab85485d981d4c1f3cb493d64a040b
+MD5sum: 415a605fd99da6a054c070abd148ea92
+SHA1: a68ad94ac95fd58c2cf18687420e5c7612613658
+SHA256: 33d31bf5985d8bb4adbe15c934df2956ce2680a0e94ad082a7e99a96f548a3d0
+SHA512: 885efb401641b0e594efb0e2038e2f29f183b19a92ef8177c23e9f731109819193b820c8ec75c602cf49c39f594b125688543d5fd31bb5ab098d719e032623b4
 Description: read Description
 Name: Best Fiends
 Author: roarijo89 Tweaks
@@ -41,11 +41,11 @@ Essential: yes
 Section: System
 Maintainer: roarijo89
 Filename: ./debfiles//com.roarijo89.icons_1.0_iphoneos-arm.deb
-Size: 512018
-MD5sum: 6ba1b3174ca9c74957665b9767b6544d
-SHA1: 6b529ad5e64a9409577e8bc2c2f3b4aac496c7f7
-SHA256: 36bfe3e3e28508d61072a7aa875a6ced6d76a9947c1e46375f44f44dc82b32db
-SHA512: 8f11d3598ac50ad47bca3a6bb00fb662af0da7c249d016013a43099f50bb388db54d740707dfce67799e048fa4491fc45d593b2195281c7cd1f4477c4468cd45
+Size: 512022
+MD5sum: 843179e7faebe2e198a5017e3042ddaf
+SHA1: f01e4a7aa08cba1b6e81d06b76094608223bc9c0
+SHA256: fba42b912f1744f41d0594e5b4df0d37f06ac19a1848a58ada8cfbe09a9f0200
+SHA512: ca7a961b5589b1e32c0a6ccd5fd58f24184a522e81e55757ab5fac94a53fd0c2f8e9160859a72fab48107b53a97f00e5d75bc4191450a2d38cc27966242704f2
 Description: Officials roarijo89 Tweaks Repo Icons
 Name: roarijo89 Tweaks Repo Icons
 Author: roarijo89
@@ -58,10 +58,10 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.inapp_1.0_iphoneos-arm.deb
 Size: 4560
-MD5sum: 46a1dd52d45e282aac5f8ecd89369fbc
-SHA1: 97da295ff7af0e260c9e3ca965f2a45f0c337e87
-SHA256: 7e051165ae0f3ca398e603d7e15ef90565747df7ffc6cbdd84bd57eca30b5c70
-SHA512: bf5d2a111d1bfbeef77b884ccd25776cf3d3ace2ff674943e2171fab8b69d5b79dab8b91420dc6a81877fde65e67a05711548d1a57d9f5f42485d9f860d6eeda
+MD5sum: d5156ff1cbbe98c84cd284906d7b5908
+SHA1: d1ab47cdf6e79fc400a9f618a43f6b4c490ae731
+SHA256: e11f6084633c5b73d78b255daaf07a5ee4579da95e80af8cd6816b37add36e2b
+SHA512: bb5e40f00339d070603056a054f868a84336f82d85b0a25016cb291288f8fa60be24120d6af92ac2d8b1aaec62c17fed65b38af5688e0027597cb5d79da78886
 Description: read Description
 Name: LocalIAPStore any iOS
 Author: roarijo89
@@ -76,10 +76,10 @@ Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.jo_1.0_iphoneos-arm.deb
 Size: 124738
-MD5sum: 2feac28c699db3f4df4a3baf74bc2c6d
-SHA1: a4e70c81833e81a85715a296285d3f904195b302
-SHA256: 7d7acd757145dae1471e361df167ec197166acdd57cc514800582d8d39484415
-SHA512: 04003a96a27b12000a0bae95e8dc34acf4a843911366372ceddb68cde489aeb3c5036374b1b800f96bb36cae4655c84ba5c1d4cc65591c4bc2658a5604620463
+MD5sum: 04cc239ca2a74e383fedf562711d35d2
+SHA1: ac24cf4f8921bd09fe15b3b05cd4c96cd07c415d
+SHA256: 42fbdaecdb5f9bd14c15f29194a9c83489894992affd3d8485171b7d6be32351
+SHA512: db48f3d99e4550169e8671eedb1fe6285f146ba204d56918511b99c224dd894799d23a6ff71e1a3c8952841adcc739f24f4e4015bedb24c59b1e989c7712b816
 Description: read Description
 Name: Jonny Trigger
 Author: roarijo89
@@ -87,17 +87,17 @@ Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.r
 
 Package: com.roarijo89.sound
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.0
 Section: _Tweaks_
 Maintainer: roarijo89
 Installed-Size: 368
-Depends: mobilesubstrate,com.roarijo89.tools
-Filename: ./debfiles//com.roarijo89.sound_1.1_iphoneos-arm.deb
-Size: 124022
-MD5sum: cfc34c431a1248f16c9260e2cac3318d
-SHA1: 98bbdaa2325229b1a5cc112bbfc6dfcf6fcc33ec
-SHA256: 2e94d6b36c7167ca0f03d71051be8f0b1113008cd39e5a08690598036b2978dd
-SHA512: feaed129b7102e9ec841503100cd4c60580c57af92a62b318da128dc23a2062abed6e82406ffbdd5e878db89265a75db7b4b481c5c2661804177c4ad12b4a683
+Depends: mobilesubstrate
+Filename: ./debfiles//com.roarijo89.sound_1.0_iphoneos-arm.deb
+Size: 124014
+MD5sum: 32556a3ff60215627b187785fa444a2e
+SHA1: 248ec403cfa1b8b7e4360e7a2868a1273373bd0a
+SHA256: 55e7880fa03f911644644be2370447201ee6579309f157b23628b76f8a338c03
+SHA512: c7573a61c7942bd1da142e06c20fa160609b7e0a6c19913ad2ecd0022d4bec3bb6254dc7532015149ea86ef5bb293222fcee8f5be3f2a284ac1ce6d5fc2866b1
 Description: read Description
 Name: soundcloud
 Author: roarijo89
@@ -112,10 +112,10 @@ Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tiny_1.0_iphoneos-arm.deb
 Size: 123850
-MD5sum: 097bf8ae885cb6a299ab937924c0dd35
-SHA1: 26504db06f6dfa37cab1c6d586d7aeb164b887b4
-SHA256: eef0c16cee6798f89c502e248f9325fc282777eb0638d4dbca0f3f1629f5d024
-SHA512: f687fd735bf37c162612e44fb9a28a9b28b7560622190565330afc0c868206d486f945e7562174c47bbfe1db113d3c4de4dce7870e324a143043d34c5dceaa63
+MD5sum: 10f3e2fde30b49403859fbdcf491c866
+SHA1: b0ebbc1d5fb02c7e513064d4e54772fa2edf692c
+SHA256: c469818e7587bb4e8e343325252c7f035e970527465b0bb4decdbb5ffdd4ba5b
+SHA512: 0d36dca730456ca531ec7fe81d0ce8261a4b034f1c120b9fcea849951490e574f228c303aa6d21fc75551a94ea13d2be79e4a12706ebaa2069bbc1010cc29fbe
 Description: read Description
 Name: Tiny Towers
 Author: roarijo89 Tweaks
@@ -124,16 +124,16 @@ Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.r
 Package: com.roarijo89.tools
 Architecture: iphoneos-arm
 Version: 1.4
-Section: Tools 🛠
+Section: _Tools 🛠_
 Maintainer: roarijo89 Tweaks
 Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles//com.roarijo89.tools_1.4_iphoneos-arm.deb
-Size: 5062376
-MD5sum: a709464f84a0ff754883eedfb3eb6a16
-SHA1: f1fa6b1a271d8b64e926571d3fce7ddd53ff66db
-SHA256: 7a3578c70b9d5d39e3086736e04f8a32bb737c0f4af4940a2ffa65a4f42ad3ae
-SHA512: 99f083ca5e66ebe4179e0db376bcbc48463827bc510b3ed8820245dceebac8b3345b3bb2f66575ae7595dad5c4711cef41fae529b403dde8159d684099dcf7a0
+Size: 5062378
+MD5sum: d981e61b0b5841ea311333b6e472f0f3
+SHA1: b60e1c5c200712aceb0ce8ada0f927c7a5895a3c
+SHA256: 4372649f6d0d19caa89b8d14de94ab05ca4dc755153b11a4578aee00682afb5c
+SHA512: 1cbe2e9b07a27eaea18146d57870451cb225ed02207dd6ebb7c85d964010821cbe825c03c4d670de3bd1880ab9a266f581021173cbaf64af8ce70cc29a6a6d1c
 Description: read Description
 Name: Tools 🛠
 Author: roarijo89 Tweaks
