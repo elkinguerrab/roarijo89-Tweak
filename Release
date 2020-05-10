@@ -1,10 +1,15 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: roarijo89 Tweaks
+Label: roarijo89 Tweaks
 Suite: stable
 Version: 1.0
-Codename: julioverne
+Codename: roarijo89
 Architecture: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
+Description: Officials roarijo89 Tweaks repo
 MD5Sum:
+<<<<<<< HEAD
   16777219
+=======
+ 22100236a7c06f2b3ef0913392ee85ee 6165 Packages
+ 7d7b858e75fcf12136705998f1040951 2215 Packages.bz2
+>>>>>>> 6125fcf7c6f67579363dd7d9076251bb5294cc01
