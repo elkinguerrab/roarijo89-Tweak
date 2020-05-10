@@ -14,3 +14,5 @@ dpkg-deb -bZgzip projects/audio debfiles
 dpkg-deb -bZgzip projects/john debfiles
 
 dpkg-deb -bZgzip projects/sound debfiles
+
+dpkg-deb -bZgzip projects/hook debfiles
