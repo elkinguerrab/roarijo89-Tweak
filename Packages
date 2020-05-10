@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 Package: com.roarijo89.audio
 Architecture: iphoneos-arm
 Version: 1.0
@@ -159,4 +157,3 @@ Name: Tools
 Author: roarijo89 Tweaks
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.tools
 
->>>>>>> 6125fcf7c6f67579363dd7d9076251bb5294cc01

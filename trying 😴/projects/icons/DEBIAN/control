@@ -1,0 +1,9 @@
+Package: com.roarijo89.icons
+Essential: yes
+Section: System
+Maintainer: roarijo89
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Officials roarijo89 Tweaks Repo Icons
+Name: roarijo89 Tweaks Repo Icons
+Author: roarijo89
