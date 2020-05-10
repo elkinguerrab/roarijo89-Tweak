@@ -1,5 +1,5 @@
 Package: com.roarijo89.inapp
-Name: in app purchase all iOS version
+Name: LocalIAPStore any iOS
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: read Description
