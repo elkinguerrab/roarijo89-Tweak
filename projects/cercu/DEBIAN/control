@@ -3,7 +3,7 @@ Name: Cercube for youtube
 Author: stemgrade
 Description: read Description
 Depends: mobilesubstrate
-Maintainer: roarijo89 Tweaks
+Maintainer: roarijo89 Tweaks <roarijoa@gmail.com>
 Architecture: iphoneos-arm
 Section: stem_grade
 Version: 0.0.4
