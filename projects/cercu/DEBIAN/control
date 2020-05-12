@@ -1,11 +1,11 @@
 Package: com.180.youtube
-Name: cercube for youtube
+Name: Cercube for youtube
 Author: stemgrade
 Description: read Description
 Depends: mobilesubstrate
 Maintainer: roarijo89 Tweaks
 Architecture: iphoneos-arm
-Section: stem grade
+Section: stem_grade
 Version: 0.0.4
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.180.youtube
 Installed-Size: 588
