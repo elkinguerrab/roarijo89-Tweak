@@ -1,4 +1,4 @@
-Package: org.roarijo89.simple
+Package: com.roarijo89.simple
 Name: simple flex 3
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
