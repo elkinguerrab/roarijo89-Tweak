@@ -1,11 +1,11 @@
-Origin: roarijo89 Tweaks
-Label: roarijo89 Tweaks
+Origin: coco Tweaks
+Label: coco Tweaks
 Suite: stable
 Version: 1.0
-Codename: roarijo89
+Codename: coco
 Architecture: iphoneos-arm
 Components: main
-Description: Official roarijo89 Tweaks repo
+Description: Official coco Tweaks repo
 MD5Sum:
- 86e5498b577a97ad3d0e7149a53bc0dc 11356 Packages
- faf1ee61a0aa9266378b8855f31e75f5 3600 Packages.bz2
+ 337688b5c270bf85bd9ee947307e7fe3 11356 Packages
+ 860e1ba5626d049ff7d92c8b25b5e74d 3578 Packages.bz2
