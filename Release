@@ -5,7 +5,7 @@ Version: 1.0
 Codename: coco
 Architecture: iphoneos-arm
 Components: main
-Description: Official Coco Tweaks repo
+Description: Official coco Tweaks repo
 MD5Sum:
- 337688b5c270bf85bd9ee947307e7fe3 11356 Packages
- 860e1ba5626d049ff7d92c8b25b5e74d 3578 Packages.bz2
+ 8736483f69216649c0e620cee8d381fb 11324 Packages
+ aa71e0cfa6e196f60e3f2240f5d793e1 3610 Packages.bz2
