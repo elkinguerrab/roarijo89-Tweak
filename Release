@@ -1,11 +1,11 @@
 Origin: Coco Tweaks
-Label: coco Tweaks
+Label: Coco Tweaks
 Suite: stable
 Version: 1.0
 Codename: coco
 Architecture: iphoneos-arm
 Components: main
-Description: Official coco Tweaks repo
+Description: Official Coco Tweaks repo
 MD5Sum:
  337688b5c270bf85bd9ee947307e7fe3 11356 Packages
  860e1ba5626d049ff7d92c8b25b5e74d 3578 Packages.bz2

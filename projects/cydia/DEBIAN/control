@@ -1,8 +1,8 @@
 Package: com.roarijo89.cydia
-Name: cydia 2020
+Name: Cydia 2020
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: roarijo89 Tweaks <roarijoa@gmail.com>
+Maintainer: Coco Tweaks <roarijoa@gmail.com>
 Description: read Description
 Author: roarijo89
 Section: _Tweaks_

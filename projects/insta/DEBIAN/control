@@ -1,10 +1,11 @@
 Package: com.180.instagram
 Name: instagram rocket 
 Author: stemgrade
-Description: read Description
-Depends: mobilesubstrate
-Maintainer: roarijo89 Tweaks <roarijoa@gmail.com>
+Description: no ads and no red banner in instagram rocket
+Depends: mobilesubstrate, preferenceloader
+Maintainer: stemgrade
 Architecture: iphoneos-arm
-Section: stem_grade
-Version: 0.0.2
+Section: Tweaks
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.180.instagram
+Version: 0.0.3
+Installed-Size: 656

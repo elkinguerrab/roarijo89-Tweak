@@ -18,7 +18,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
-			<string>Disabled Rocket ads and Banner Ver 3.6.16.</string>
+			<string>Disabled Rocket ads and Banner Ver 3.7.3</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -46,7 +46,7 @@
 			<key>icon</key>
 			<string>Paypal.png</string>
 			<key>label</key>
-			<string>Supoort Me</string>
+			<string>Support Me</string>
 		</dict>
 		<dict>
 			<key>action</key>
@@ -104,7 +104,7 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>Rocket No Ads And No ￼Banner Ver 3.6.16￼￼￼</string>
+			<string>Rocket No Ads And No ￼Banner Ver 3.7.3</string>
 		</dict>
 	</array>
 	<key>title</key>
