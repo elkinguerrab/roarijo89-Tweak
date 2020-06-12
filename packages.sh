@@ -30,3 +30,5 @@ dpkg-deb -bZgzip projects/insta debfiles
 dpkg-deb -bZgzip projects/simple debfiles
 
 dpkg-deb -bZgzip projects/IPAS debfiles
+
+dpkg-deb -bZgzip projects/myiapcracker debfiles
