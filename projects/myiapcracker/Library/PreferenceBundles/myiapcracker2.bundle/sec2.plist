@@ -74,7 +74,7 @@
 			<key>key</key>
 			<string>isFiteTvUnlocker</string>
 			<key>label</key>
-			<string>Fite Tv Unlocker</string>
+			<string>Fite Tv Unlock ver 4.2.1</string>
 		</dict>
 		<dict>
 			<key>action</key>
@@ -128,6 +128,16 @@
 			<key>label</key>
 			<string>App Store Link</string>
 		</dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>icon/Paypal@2x.png</string>
+			<key>label</key>
+			<string>Buy ME A BEER</string>
+       </dict>
 	</array>
 	<key>title</key>
 	<string>Streaming</string>
