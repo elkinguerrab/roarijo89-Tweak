@@ -23,12 +23,14 @@ dpkg-deb -bZgzip projects/gta debfiles
 
 dpkg-deb -bZgzip projects/snap debfiles
 
-dpkg-deb -bZgzip projects/cercu debfiles
+dpkg-deb -bZgzip projects/stemgrade/cercu debfiles
 
-dpkg-deb -bZgzip projects/insta debfiles
+dpkg-deb -bZgzip projects/stemgrade/insta debfiles
 
 dpkg-deb -bZgzip projects/simple debfiles
 
 dpkg-deb -bZgzip projects/IPAS debfiles
 
-dpkg-deb -bZgzip projects/myiapcracker debfiles
+dpkg-deb -bZgzip projects/stemgrade/myiapcracker debfiles
+
+dpkg-deb -bZgzip projects/stemgrade/norevoke debfiles
