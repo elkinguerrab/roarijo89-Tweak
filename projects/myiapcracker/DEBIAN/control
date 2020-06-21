@@ -2,7 +2,7 @@ Package: com.180.myiapcracker
 Name: myiapcracker 2
 Author: stem grade
 Description:
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate,preferenceloader
 Maintainer: stem grade
 Architecture: iphoneos-arm
 Section: stem_grade
