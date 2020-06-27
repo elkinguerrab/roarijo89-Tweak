@@ -1,6 +1,6 @@
 Package: com.roarijo89.tools
 Name: Tools 
-Depends: mobilesubstrate ,preferenceloader
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: read Description
 Maintainer: roarijo89 <roarijoa@gmail.com>
