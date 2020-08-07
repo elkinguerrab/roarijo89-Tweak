@@ -18,7 +18,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
-			<string>Disabled ads and Red Banner and yes you can download video.</string>
+			<string>Disabled ads and Red Banner plus more.</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -30,11 +30,67 @@
           <key>icon</key>
 			<string>p@2x.png</string>
 			<key>key</key>
-			<string>isyoutube</string>
+			<string>YouTubeCAd</string>
 			<key>label</key>
 			<string>CerCube NoAds Ver 5.1.18</string>
 		</dict>
-             <dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.youtube</string>
+          <key>icon</key>
+			<string>ppp@2x.png</string>
+			<key>key</key>
+			<string>YouTubeCGear</string>
+			<key>label</key>
+			<string>Hide NavBar Gear Icon</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.youtube</string>
+          <key>icon</key>
+			<string>pp@2x.png</string>
+			<key>key</key>
+			<string>BetterPrivacy</string>
+			<key>label</key>
+			<string>Better Privacy</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.youtube</string>
+          <key>icon</key>
+			<string>p@2x.png</string>
+			<key>key</key>
+			<string>Oled</string>
+			<key>label</key>
+			<string>Cercube Oled setting beta</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.youtube</string>
+          <key>icon</key>
+			<string>pppp@2x.png</string>
+			<key>key</key>
+			<string>IpadStyleLayOut</string>
+			<key>label</key>
+			<string>IPad layout 4 iPhone</string>
+		</dict>
+        <dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
 		</dict>
@@ -47,26 +103,6 @@
 			<string>Paypal.png</string>
 			<key>label</key>
 			<string>Supoort Me</string>
-		</dict>
-		<dict>
-			<key>action</key>
-			<string>link6</string>
-			<key>cell</key>
-			<string>PSButtonCell</string>
-			<key>icon</key>
-			<string>2@2x.png</string>
-			<key>label</key>
-			<string>Visit My Twitter</string>
-		</dict>
-		<dict>
-			<key>action</key>
-			<string>link7</string>
-			<key>cell</key>
-			<string>PSButtonCell</string>
-          <key>icon</key>
-			<string>www@2x.png</string>
-			<key>label</key>
-			<string>Visit roarijo89.wixsite.com</string>
 		</dict>
        <dict>
 			<key>action</key>
@@ -104,7 +140,7 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>Cercube No Ads And No Red Banner and no upgrade banner in the settings 5.1.18￼￼￼</string>
+			<string>Cercube No Ads And No Red Banner and no upgrade banner in the settings plus more</string>
 		</dict>
 	</array>
 	<key>title</key>
