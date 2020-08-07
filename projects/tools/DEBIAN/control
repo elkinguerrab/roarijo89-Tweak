@@ -3,7 +3,7 @@ Name: Tools
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: read Description
-Maintainer: roarijo89 <roarijoa@gmail.com>
+Maintainer: roarijo89 <>
 Author: roarijo89
 Section: Tools🛠
 Version: 1.4
