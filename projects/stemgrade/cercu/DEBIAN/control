@@ -3,7 +3,7 @@ Name: Cercube for youtube
 Author: stemgrade
 Description: read Description
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Maintainer: Coco Tweaks <>
+Maintainer: stemgrade <>
 Architecture: iphoneos-arm
 Section: stem_grade
 Version: 0.5.1

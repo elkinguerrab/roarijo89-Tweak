@@ -37,4 +37,6 @@ dpkg-deb -bZgzip projects/stemgrade/norevoke debfiles
 
 dpkg-deb -bZgzip projects/stemgrade/facebook debfiles
 
+dpkg-deb -bZgzip projects/stemgrade/ytuber debfiles
+
 dpkg-deb -bZgzip projects/cco debfiles
