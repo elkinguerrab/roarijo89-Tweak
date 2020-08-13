@@ -4,8 +4,8 @@ Version: 1.0
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Press on a app to copy bundle id
-Maintainer: Coco Tweaks <>
-Author: Coco Tweaks <>
+Maintainer: Coco Tweaks
+Author: Coco Tweaks
 Section: _Tweaks_
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.bundleid
 Installed-Size: 108
