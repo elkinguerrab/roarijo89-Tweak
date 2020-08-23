@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Official Coco Tweaks repo
 MD5Sum:
- 845a55d5861826dadf9856fbb4f6ac03 16316 Packages
- 8c377415ba78a10d87ccf98932e8fb06 5202 Packages.bz2
+ 6bc52ff9695dc417d7a83fdc4456979e 16316 Packages
+ 3f1ba2e64e6f91d7d0c35243f204c357 5200 Packages.bz2

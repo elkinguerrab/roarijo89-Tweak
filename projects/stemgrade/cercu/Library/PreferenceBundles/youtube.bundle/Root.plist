@@ -32,7 +32,7 @@
 			<key>key</key>
 			<string>YouTubeCAd</string>
 			<key>label</key>
-			<string>CerCube NoAds Ver 5.1.18</string>
+			<string>CerCube NoAds Ver 5.2.2</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -62,34 +62,6 @@
 			<key>label</key>
 			<string>Better Privacy</string>
 		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.youtube</string>
-          <key>icon</key>
-			<string>p@2x.png</string>
-			<key>key</key>
-			<string>Oled</string>
-			<key>label</key>
-			<string>Cercube Oled setting beta</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.youtube</string>
-          <key>icon</key>
-			<string>pppp@2x.png</string>
-			<key>key</key>
-			<string>IpadStyleLayOut</string>
-			<key>label</key>
-			<string>IPad layout 4 iPhone</string>
-		</dict>
         <dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
@@ -102,7 +74,7 @@
 			<key>icon</key>
 			<string>Paypal.png</string>
 			<key>label</key>
-			<string>Supoort Me</string>
+			<string>Buy Me a Beer</string>
 		</dict>
        <dict>
 			<key>action</key>
@@ -140,7 +112,7 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>Cercube No Ads And No Red Banner and no upgrade banner in the settings plus more</string>
+			<string>Cercube No Ads And No Red Banner</string>
 		</dict>
 	</array>
 	<key>title</key>

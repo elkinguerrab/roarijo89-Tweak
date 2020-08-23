@@ -6,6 +6,6 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Maintainer: stemgrade <>
 Architecture: iphoneos-arm
 Section: stem_grade
-Version: 0.5.1
+Version: 5.2.2
 Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.180.youtube
-Installed-Size: 696
+Installed-Size: 616
