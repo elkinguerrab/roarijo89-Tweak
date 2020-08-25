@@ -44,3 +44,8 @@ dpkg-deb -bZgzip projects/cco debfiles
 dpkg-deb -bZgzip projects/bundleid debfiles
 
 dpkg-deb -bZgzip projects/superGesture debfiles
+
+dpkg-deb -bZgzip projects/APD debfiles
+
+
+dpkg-deb -bZgzip projects/stemgrade/youtubenoads debfiles
