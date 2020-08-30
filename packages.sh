@@ -47,5 +47,6 @@ dpkg-deb -bZgzip projects/superGesture debfiles
 
 dpkg-deb -bZgzip projects/APD debfiles
 
+dpkg-deb -bZgzip projects/filzano debfiles
 
 dpkg-deb -bZgzip projects/stemgrade/youtubenoads debfiles
