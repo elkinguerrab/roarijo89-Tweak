@@ -28,7 +28,7 @@
           <key>icon</key>
 			<string>icon/adg@2x.png</string>
 			<key>key</key>
-			<string>isAdguardPro</string>
+			<string>AdguardPro</string>
 			<key>label</key>
 			<string>Adguard Pro</string>
 		</dict>
@@ -50,7 +50,7 @@
           <key>icon</key>
 			<string>icon/circle@2x.png</string>
 			<key>key</key>
-			<string>isRiplPro</string>
+			<string>RiplPro</string>
 			<key>label</key>
 			<string>Ripl Pro</string>
 		</dict>
@@ -72,7 +72,7 @@
           <key>icon</key>
 			<string>icon/ripl@2x.png</string>
 			<key>key</key>
-			<string>isLifeAdvisorVip</string>
+			<string>LifeAdvisorVip</string>
 			<key>label</key>
 			<string>Life Advisor Vip</string>
 		</dict>
@@ -94,7 +94,7 @@
           <key>icon</key>
 			<string>icon/pdf@2x.png</string>
 			<key>key</key>
-			<string>isPdfExpert7Pro</string>
+			<string>PdfExpert7Pro</string>
 			<key>label</key>
 			<string>Pdf Expert 7 Pro</string>
 		</dict>
@@ -116,7 +116,7 @@
           <key>icon</key>
 			<string>icon/kik@2x.png</string>
 			<key>key</key>
-			<string>isKikNoAds</string>
+			<string>KikNoAds</string>
 			<key>label</key>
 			<string>Kik NoAds</string>
 		</dict>
@@ -138,7 +138,7 @@
           <key>icon</key>
 			<string>icon/lab@2x.png</string>
 			<key>key</key>
-			<string>isPhotoLabPro</string>
+			<string>PhotoLabPro</string>
 			<key>label</key>
 			<string>Photo Lab Pro</string>
 		</dict>
@@ -170,7 +170,7 @@
           <key>icon</key>
 			<string>icon/test4@2x.png</string>
 			<key>key</key>
-			<string>isElevateBrainTraining</string>
+			<string>ElevateBrainTraining</string>
 			<key>label</key>
 			<string>Elevate Brain Training</string>
 		</dict>
@@ -198,7 +198,7 @@
           <key>icon</key>
 			<string>icon/weapon@2x.png</string>
 			<key>key</key>
-			<string>isCrazyDefenseHack</string>
+			<string>CrazyDefenseHack</string>
 			<key>label</key>
 			<string>Crazy Defense</string>
 		</dict>
@@ -230,7 +230,7 @@
           <key>icon</key>
 			<string>icon/black1@2x.png</string>
 			<key>key</key>
-			<string>isDarkRoomUnlocker</string>
+			<string>DarkRoomUnlocker</string>
 			<key>label</key>
 			<string>DarkRoom Unlocker</string>
 		</dict>
@@ -254,123 +254,9 @@
 			<key>defaults</key>
 			<string>com.180.myiapcracker</string>
           <key>icon</key>
-			<string>icon/pou@2x.png</string>
-			<key>key</key>
-			<string>isedithave</string>
-			<key>label</key>
-			<string>pou coins</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSEditTextCell</string>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>detail</key>
-			<string>PSDetailController</string>
-			<key>isNumeric</key>
-			<true/>
-			<key>key</key>
-			<string>coins</string>
-			<key>label</key>
-			<string>Amount:</string>
-			<key>placeholder</key>
-			<string>Enter your value here.</string>
-      </dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>key</key>
-			<string>iseditlevel</string>
-			<key>label</key>
-			<string>level</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSEditTextCell</string>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>detail</key>
-			<string>PSDetailController</string>
-			<key>isNumeric</key>
-			<true/>
-			<key>key</key>
-			<string>level</string>
-			<key>label</key>
-			<string>Level:</string>
-			<key>placeholder</key>
-			<string>Enter your level here.</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>key</key>
-			<string>istired</string>
-			<key>label</key>
-			<string>pou don’t get tired</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>key</key>
-			<string>ishungry</string>
-			<key>label</key>
-			<string>pou don’t get hungry</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>key</key>
-			<string>issick</string>
-			<key>label</key>
-			<string>pou don’t get sick</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-			<key>key</key>
-			<string>isdirty</string>
-			<key>label</key>
-			<string>pou don’t get dirty</string>
-		</dict>
-		<dict>
-			<key>action</key>
-			<string>key10</string>
-			<key>cell</key>
-			<string>PSButtonCell</string>
-			<key>label</key>
-			<string>App Store Link</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<false/>
-			<key>defaults</key>
-			<string>com.180.myiapcracker</string>
-          <key>icon</key>
 			<string>icon/dj@2x.png</string>
 			<key>key</key>
-			<string>isdjay</string>
+			<string>djay</string>
 			<key>label</key>
 			<string>Djay Pro</string>
 		</dict>
@@ -392,7 +278,7 @@
           <key>icon</key>
 			<string>icon/jio@2x.png</string>
 			<key>key</key>
-			<string>isJioSaavn</string>
+			<string>JioSaavn</string>
 			<key>label</key>
 			<string>JioSaavn Pro</string>
 		</dict>
@@ -414,7 +300,7 @@
           <key>icon</key>
 			<string>icon/wolrd@2x.png</string>
 			<key>key</key>
-			<string>isMondly</string>
+			<string>Mondly</string>
 			<key>label</key>
 			<string>Mondly Premium</string>
 		</dict>
@@ -436,7 +322,7 @@
           <key>icon</key>
 			<string>icon/focos@2x.png</string>
 			<key>key</key>
-			<string>isFocos</string>
+			<string>Focos</string>
 			<key>label</key>
 			<string>Focos Pro</string>
 		</dict>
@@ -458,7 +344,7 @@
           <key>icon</key>
 			<string>icon/simp@2x.png</string>
 			<key>key</key>
-			<string>isSimple</string>
+			<string>Simple</string>
 			<key>label</key>
 			<string>Simple Radio Unlocker</string>
 		</dict>
@@ -480,13 +366,35 @@
           <key>icon</key>
 			<string>icon/voice@2x.png</string>
 			<key>key</key>
-			<string>isVoice</string>
+			<string>Voice</string>
 			<key>label</key>
 			<string>The Voice Karaoke Vip</string>
 		</dict>
 		<dict>
 			<key>action</key>
 			<string>key16</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/per@2x.png</string>
+			<key>key</key>
+			<string>Maker</string>
+			<key>label</key>
+			<string>Intro maker</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key17</string>
 			<key>cell</key>
 			<string>PSButtonCell</string>
 			<key>label</key>

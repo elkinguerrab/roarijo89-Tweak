@@ -28,7 +28,7 @@
           <key>icon</key>
 			<string>icon/365@2x.png</string>
 			<key>key</key>
-			<string>isWin</string>
+			<string>Win</string>
 			<key>label</key>
 			<string>365 NoAds Tips active</string>
 		</dict>
@@ -50,7 +50,7 @@
           <key>icon</key>
 			<string>icon/myfit@2x.png</string>
 			<key>key</key>
-			<string>isMyFit</string>
+			<string>MyFit</string>
 			<key>label</key>
 			<string>MyFitness Premium</string>
 		</dict>
@@ -72,7 +72,7 @@
           <key>icon</key>
 			<string>icon/lifesum@2x.png</string>
 			<key>key</key>
-			<string>isLifesum</string>
+			<string>Lifesum</string>
 			<key>label</key>
 			<string>LifeSum Premium</string>
 		</dict>
@@ -94,7 +94,7 @@
           <key>icon</key>
 			<string>icon/livecycle@2x.png</string>
 			<key>key</key>
-			<string>isLifeCycle</string>
+			<string>LifeCycle</string>
 			<key>label</key>
 			<string>LifeCycle Premium</string>
 		</dict>
@@ -116,7 +116,7 @@
           <key>icon</key>
 			<string>icon/lifetrails@2x.png</string>
 			<key>key</key>
-			<string>isAllTrails</string>
+			<string>AllTrails</string>
 			<key>label</key>
 			<string>AllTrails Pro</string>
 		</dict>

@@ -28,7 +28,7 @@
           <key>icon</key>
 			<string>icon/net@2x.png</string>
 			<key>key</key>
-			<string>isBetterNetAndHexaTechPrem</string>
+			<string>BetterNetAndHexaTechPrem</string>
 			<key>label</key>
 			<string>BetterNet+HexaTech</string>
 		</dict>
@@ -50,7 +50,7 @@
           <key>icon</key>
 			<string>icon/ab@2x.png</string>
 			<key>key</key>
-			<string>isStarVpnPremium</string>
+			<string>StarVpnPremium</string>
 			<key>label</key>
 			<string>Star Vpn Premium</string>
 		</dict>
@@ -72,7 +72,7 @@
           <key>icon</key>
 			<string>icon/pisp@2x.png</string>
 			<key>key</key>
-			<string>isPsiphonPremium</string>
+			<string>PsiphonPremium</string>
 			<key>label</key>
 			<string>Psiphon Premium</string>
 		</dict>
@@ -94,7 +94,7 @@
           <key>icon</key>
 			<string>icon/tor@2x.png</string>
 			<key>key</key>
-			<string>isonionTorBrowserPremium</string>
+			<string>onionTorBrowserPremium</string>
 			<key>label</key>
 			<string>onion Tor Browser vpn</string>
 		</dict>
@@ -116,7 +116,7 @@
           <key>icon</key>
 			<string>icon/tou@2x.png</string>
 			<key>key</key>
-			<string>isTouchVpnPremuim</string>
+			<string>TouchVpnPremuim</string>
 			<key>label</key>
 			<string>Touch Vpn Premuim</string>
 		</dict>
@@ -138,7 +138,7 @@
           <key>icon</key>
 			<string>icon/first@2x.png</string>
 			<key>key</key>
-			<string>isFirstVpnPremium</string>
+			<string>FirstVpnPremium</string>
 			<key>label</key>
 			<string>First Vpn Premium</string>
 		</dict>
@@ -160,7 +160,7 @@
           <key>icon</key>
 			<string>icon/key@2x.png</string>
 			<key>key</key>
-			<string>isVpnProxyMasterVip</string>
+			<string>VpnProxyMasterVip</string>
 			<key>label</key>
 			<string>Vpn Proxy Master Vip</string>
 		</dict>
@@ -182,7 +182,7 @@
           <key>icon</key>
 			<string>icon/coli@2x.png</string>
 			<key>key</key>
-			<string>isColibriVpnPrem</string>
+			<string>ColibriVpnPrem</string>
 			<key>label</key>
 			<string>Colibri Vpn Prem</string>
 		</dict>
@@ -204,7 +204,7 @@
           <key>icon</key>
 			<string>icon/onet@2x.png</string>
 			<key>key</key>
-			<string>isOrNET</string>
+			<string>OrNET</string>
 			<key>label</key>
 			<string>OrNET</string>
 		</dict>
@@ -226,7 +226,7 @@
           <key>icon</key>
 			<string>icon/bitvpn@2x.png</string>
 			<key>key</key>
-			<string>isBitVPN</string>
+			<string>BitVPN</string>
 			<key>label</key>
 			<string>BitVPN</string>
 		</dict>
@@ -248,7 +248,7 @@
           <key>icon</key>
 			<string>icon/hotspot@2x.png</string>
 			<key>key</key>
-			<string>isHotspotShield</string>
+			<string>HotspotShield</string>
 			<key>label</key>
 			<string>Hotspot Shield</string>
 		</dict>
@@ -270,7 +270,7 @@
           <key>icon</key>
 			<string>icon/112@2x.png</string>
 			<key>key</key>
-			<string>isVPN</string>
+			<string>VPN</string>
 			<key>label</key>
 			<string>#VPN</string>
 		</dict>
@@ -292,7 +292,7 @@
           <key>icon</key>
 			<string>icon/prime@2x.png</string>
 			<key>key</key>
-			<string>isVPNN</string>
+			<string>VPNN</string>
 			<key>label</key>
 			<string>VPN Prime Prem</string>
 		</dict>
@@ -314,13 +314,35 @@
           <key>icon</key>
 			<string>icon/turbovpn@2x.png</string>
 			<key>key</key>
-			<string>isTurbovpn</string>
+			<string>Turbovpn</string>
 			<key>label</key>
 			<string>Turbo VPN Vip</string>
 		</dict>
 		<dict>
 			<key>action</key>
 			<string>key13</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/her@2x.png</string>
+			<key>key</key>
+			<string>Gogo</string>
+			<key>label</key>
+			<string>VPN secure</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key14</string>
 			<key>cell</key>
 			<string>PSButtonCell</string>
 			<key>label</key>

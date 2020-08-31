@@ -28,7 +28,7 @@
           <key>icon</key>
 			<string>icon/happy@2x.png</string>
 			<key>key</key>
-			<string>isMYiAPCracker</string>
+			<string>MYiAPCracker</string>
 			<key>label</key>
 			<string>MY iAP Cracker</string>
 		</dict>
@@ -52,7 +52,7 @@
           <key>icon</key>
 			<string>icon/ttt@2x.png</string>
 			<key>key</key>
-			<string>isAppManager</string>
+			<string>AppManager</string>
 			<key>label</key>
 			<string>App Manager</string>
 		</dict>
@@ -80,7 +80,7 @@
           <key>icon</key>
 			<string>icon/happy@2x.png</string>
 			<key>key</key>
-			<string>isNoRevoke</string>
+			<string>NoRevoke</string>
 			<key>label</key>
 			<string>No Revoke</string>
 		</dict>
@@ -104,7 +104,7 @@
           <key>icon</key>
 			<string>icon/2@2x.png</string>
 			<key>key</key>
-			<string>isRocketNoAds</string>
+			<string>RocketNoAds</string>
 			<key>label</key>
 			<string>Rocket NoAds</string>
 		</dict>
@@ -130,7 +130,7 @@
           <key>icon</key>
 			<string>icon/j.png</string>
 			<key>key</key>
-			<string>isIcleanerProNoAds</string>
+			<string>IcleanerProNoAds</string>
 			<key>label</key>
 			<string>Icleaner NoAds</string>
 		</dict>
@@ -141,6 +141,28 @@
 			<string>PSButtonCell</string>
 			<key>label</key>
 			<string>Repo Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/appcake@21x.png</string>
+			<key>key</key>
+			<string>appcake</string>
+			<key>label</key>
+			<string>AppCake NoAds</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key17</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Website Link</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -162,7 +184,7 @@
           <key>icon</key>
 			<string>icon/happy.png</string>
 			<key>key</key>
-			<string>isEnabledBackGroundPlay</string>
+			<string>EnabledBackGroundPlay</string>
 			<key>label</key>
 			<string>Enabled BackGround Play</string>
       </dict>
@@ -174,7 +196,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
-			<string>Enter your text want you want then wait about 40sec or do a respring</string>
+			<string>Enter your text what you want then do a respring</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -218,9 +240,135 @@
 			<key>defaults</key>
 			<string>com.180.myiapcracker</string>
           <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>MoSearchBar</string>
+			<key>label</key>
+			<string>No SearchBar in Setting</string>
+      </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>BlockUpdate</string>
+			<key>label</key>
+			<string>Block iOS Updates</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enter your text what you want then close the settings from running in background then reopen settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>editStringSetting</string>
+			<key>label</key>
+			<string>Chance BigSetting label</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>false</key>
+			<true/>
+			<key>key</key>
+			<string>Tree</string>
+			<key>label</key>
+			<string>String</string>
+			<key>placeholder</key>
+			<string>Enter your string here</string>
+      </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Close the setting running in the background then reopen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>HideBigSetting</string>
+			<key>label</key>
+			<string>Hide Setting Label</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>NoSos</string>
+			<key>label</key>
+			<string>Hide SOS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>HideAppStoreApp</string>
+			<key>label</key>
+			<string>Hide App Store App</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required￼</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
 			<string>icon/systemwide@2x.png</string>
 			<key>key</key>
-			<string>isDockIphoneX</string>
+			<string>DockIphoneX</string>
 			<key>label</key>
 			<string>IPhone X Dock</string>
 		</dict>
@@ -238,7 +386,7 @@
           <key>icon</key>
 			<string>icon/systemwide@2x.png</string>
 			<key>key</key>
-			<string>isNoScrollbar</string>
+			<string>NoScrollbar</string>
 			<key>label</key>
 			<string>No Scroll Bar</string>
 		</dict>
@@ -258,7 +406,7 @@
           <key>icon</key>
 			<string>icon/systemwide@2x.png</string>
 			<key>key</key>
-			<string>isHidePageDot</string>
+			<string>HidePageDot</string>
 			<key>label</key>
 			<string>Hide Page Dots</string>
 		</dict>
@@ -278,7 +426,7 @@
           <key>icon</key>
 			<string>icon/systemwide@2x.png</string>
 			<key>key</key>
-			<string>isHideDockBackGround</string>
+			<string>HideDockBackGround</string>
 			<key>label</key>
 			<string>Hide Dock BackGround</string>
 		</dict>
@@ -298,7 +446,7 @@
           <key>icon</key>
 			<string>icon/systemwide@2x.png</string>
 			<key>key</key>
-			<string>isHideLabels</string>
+			<string>HideLabels</string>
 			<key>label</key>
 			<string>Hide Labels</string>
 		</dict>
