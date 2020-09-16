@@ -401,6 +401,28 @@
 			<string>App Store Link</string>
 		</dict>
 		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/snap@2x.png</string>
+			<key>key</key>
+			<string>Snap</string>
+			<key>label</key>
+			<string>Snap translate Unlock</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key18</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
 			<key>action</key>
 			<string>link</string>
 			<key>cell</key>

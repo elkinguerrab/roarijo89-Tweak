@@ -92,7 +92,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
-			<string>Instagram Rocket Ver 3.7.3 no ads and no banner</string>
+			<string>Instagram Rocket Ver 3.7.8 no ads and no banner</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -449,6 +449,26 @@
 			<string>HideLabels</string>
 			<key>label</key>
 			<string>Hide Labels</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required if you want to watch your videos in your photo disable this tweak￼</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>speedads</string>
+			<key>label</key>
+			<string>Speed up ads</string>
 		</dict>
        <dict>
 			<key>cell</key>

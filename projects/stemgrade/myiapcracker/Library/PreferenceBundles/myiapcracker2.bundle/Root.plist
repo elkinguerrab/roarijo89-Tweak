@@ -112,16 +112,6 @@
 			<key>label</key>
 			<string>Buy ME A BEER</string>
 		</dict>
-		<dict>
-			<key>action</key>
-			<string>link7</string>
-			<key>cell</key>
-			<string>PSButtonCell</string>
-          <key>icon</key>
-			<string>icon/www@2x.png</string>
-			<key>label</key>
-			<string>Visit roarijo89.wixsite.com</string>
-		</dict>
        <dict>
 			<key>action</key>
 			<string>links</string>
@@ -148,10 +138,10 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>ᗰY IᗩᑭᑕᖇᗩᑕKEᖇ 2 ver 1.0</string>
+			<string>My iapcracker2 ver 1.2</string>
 		</dict>
 	</array>
 	<key>title</key>
-	<string>ᗰY IᗩᑭᑕᖇᗩᑕKEᖇ 2</string>
+	<string>My iapcracker2</string>
 </dict>
 </plist>
