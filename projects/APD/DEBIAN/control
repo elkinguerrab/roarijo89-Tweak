@@ -1,11 +1,11 @@
-Package: com.roarijo89.APD
-Name: App editor
-Depends:mobilesubstrate, preferenceloader, applist
-Architecture: iphoneos-arm
-Description: read description
-Maintainer: roarijo89
-Author: roarijo89
-Section: _Tweaks_
-Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.APD
+Package: com.roarijo89.superGesture
 Version: 1.1
-Installed-Size: 716
+Architecture: iphoneos-arm
+Name: Super Gesture
+Description: Read description
+Depiction: https://roarijo89.github.io/roarijo89-Tweak/description.html?id=com.roarijo89.superGesture
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Origin: Coco Tweaks repo
+Source: https://repo.cocotweaks.net
+Installed-Size: 176
+Section: _Tweaks_

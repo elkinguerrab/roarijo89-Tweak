@@ -8,4 +8,4 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Origin: Coco Tweaks repo
 Source: https://repo.cocotweaks.net
 Installed-Size: 176
-Section: main repo
+Section: _Tweaks_
