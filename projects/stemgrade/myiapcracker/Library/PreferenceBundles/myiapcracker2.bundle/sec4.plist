@@ -354,6 +354,20 @@
 		</dict>
 		<dict>
 			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/settings@2x.png</string>
+			<key>key</key>
+			<string>Nohighlight</string>
+			<key>label</key>
+			<string>No highlighting</string>
+		</dict>
+		<dict>
+			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
 			<string>Respring is required￼</string>
@@ -470,7 +484,227 @@
 			<key>label</key>
 			<string>Speed up ads</string>
 		</dict>
-       <dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>ShowBatt</string>
+			<key>label</key>
+			<string>Show % in battery</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Some IPhone X style Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>IphoneStyle</string>
+			<key>label</key>
+			<string>IPhone x style</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>NoVoMob</string>
+			<key>label</key>
+			<string>Hide volume hud</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>NoIconDrag</string>
+			<key>label</key>
+			<string>No icon drag</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>NoDelete</string>
+			<key>label</key>
+			<string>Can’t delete apps</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>IconAreSqu</string>
+			<key>label</key>
+			<string>Apps are Square</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>AppAlph</string>
+			<key>label</key>
+			<string>Apps in alphabetically</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable Wifi For Apps Individually in Settings App Cellular Section Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>Celluar</string>
+			<key>label</key>
+			<string>Disable WiFi apps</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enter your text what you want then do a respring</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>LCTisEnabled</string>
+			<key>label</key>
+			<string>Chance Lockscreen name</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>false</key>
+			<true/>
+			<key>key</key>
+			<string>LCTtext</string>
+			<key>label</key>
+			<string>String</string>
+			<key>placeholder</key>
+			<string>Enter your string here</string>
+      </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respring is required</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/systemwide@2x.png</string>
+			<key>key</key>
+			<string>Rotation</string>
+			<key>label</key>
+			<string>Rotation for iPhone</string>
+		</dict>
+		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
 		</dict>
