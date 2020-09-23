@@ -82,16 +82,6 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 		</dict>
-		<dict>
-			<key>action</key>
-			<string>respring</string>
-			<key>cell</key>
-			<string>PSButtonCell</string>
-          <key>icon</key>
-			<string>icon/re@2x.png</string>
-			<key>label</key>
-			<string>respring</string>
-		</dict>
        <dict>
 			<key>action</key>
 			<string>see</string>
@@ -138,7 +128,7 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>My iapcracker2 ver 1.3</string>
+			<string>My iapcracker2 ver 1.4</string>
 		</dict>
 	</array>
 	<key>title</key>
